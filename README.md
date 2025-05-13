@@ -53,8 +53,6 @@ SHOW TABLES;
 
 ## **📌 Screenshot or Link to ERD**  
 Here’s the **Entity Relationship Diagram (ERD)** showcasing the **database structure**:  
-📷 _[Insert screenshot or link to ERD here]_
+📷 _(https://lucid.app/lucidchart/c42f5982-545a-41df-9ca8-b8dcee2158e8/edit?viewport_loc=-202%2C-120%2C2253%2C1027%2C0_0&invitationId=inv_a4c568e1-c097-4570-8bf9-8827cf876c46)_
 
----
 
-Would you like any refinements or additional sections, such as **API endpoints for integration** or **user authentication setup**? 🚀
