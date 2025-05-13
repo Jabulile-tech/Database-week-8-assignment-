@@ -1,5 +1,6 @@
 # **EduHaven Student Records Management System**
-A **relational database** designed in **MySQL** for managing student enrollments, courses, tutors, and schedules efficiently.
+**Eduhaven** is an online tutoring service.
+This is a **relational database** designed in **MySQL** for managing student enrollments, courses, tutors, and schedules efficiently.
 
 ## **Features**
 ✅ **Student Management** – Store student details securely.  
